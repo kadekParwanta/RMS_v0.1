@@ -1,0 +1,5 @@
+language: objectice-c
+osx_image: xcode8.1
+xcode_project: RMS_v0.1.xcodeproj
+xcode_scheme: RMS_v.0.1
+xcode_sdk: iphonesimulator10.1
